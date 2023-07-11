@@ -1,0 +1,6 @@
+github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkpeCY=
+github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
+github.com/repeale/fp-go v0.11.1 h1:Q/e+gNyyHaxKAyfdbBqvip3DxhVWH453R+kthvSr9Mk=
+github.com/repeale/fp-go v0.11.1/go.mod h1:4KrwQJB1VRY+06CA+jTc4baZetr6o2PeuqnKr5ybQUc=
+github.com/targodan/golib v0.0.0-20230711172833-18eca27b360f h1:w5tQ2SvfK0TH/JR5A/F+AkER/mdOmlXweOi3FVzUeWo=
+github.com/targodan/golib v0.0.0-20230711172833-18eca27b360f/go.mod h1:j+X67XEkI8aSjYEe0QDlmhJCW8kvfb4+wQpWs4LcKYo=
